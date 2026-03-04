@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "グランドエスケープ",
+  "base_artist": "Radwimps",
+  "createdAt": "2026-03-04T03:00:48.442252Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グランドエスケープ - Movie edit",
+      "artist": "RADWIMPS, Toko Miura",
+      "has_synced": true,
+      "path": "select/01_グランドエスケープ_-_Movie_edit_RADWIMPS,_Toko_Miura.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "グランドエスケープ（Movie edit）",
+      "artist": "RADWIMPS feat. 三浦透子",
+      "has_synced": true,
+      "path": "select/02_グランドエスケープ(Movie_edit)_RADWIMPS_feat._三浦透子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "グランドエスケープ (Movie edit) feat.三浦透子",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_グランドエスケープ_(Movie_edit)_feat.三浦透子_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "グランドエスケープ feat. 三浦透子",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_グランドエスケープ_feat._三浦透子_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "グランドエスケープ (Movie edit)",
+      "artist": "RADWIMPS feat. 三浦透子",
+      "has_synced": true,
+      "path": "select/05_グランドエスケープ_(Movie_edit)_RADWIMPS_feat._三浦透子.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "グランドエスケープ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/06_グランドエスケープ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "グランドエスケープ - Movie edit",
+      "artist": "RADWIMPS feat. Toko Miura",
+      "has_synced": true,
+      "path": "select/07_グランドエスケープ_-_Movie_edit_RADWIMPS_feat._Toko_Miura.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "グランドエスケープ (Movie edit)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/08_グランドエスケープ_(Movie_edit)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "グランドエスケープ",
+      "artist": "RADWIMPS feat. 三浦透子",
+      "has_synced": true,
+      "path": "select/09_グランドエスケープ_RADWIMPS_feat._三浦透子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "グランドエスケープ - Grand Escape (feat. Toko Miura)",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/10_グランドエスケープ_-_Grand_Escape_(feat._Toko_Miura)_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "グランドエスケープ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/11_グランドエスケープ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "グランドエスケープ (feat",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/12_グランドエスケープ_(feat_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "グランドエスケープ (Movie edit) feat.三浦透子",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/13_グランドエスケープ_(Movie_edit)_feat.三浦透子_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "グランドエスケープ feat. 三浦透子",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/14_グランドエスケープ_feat._三浦透子_RADWIMPS.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "グランドエスケープ - Grand Escape",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/15_グランドエスケープ_-_Grand_Escape_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "グランドエスケープ (Movie edit) - Grand Escape (Movie Edit) (feat. Toko Miura)",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/16_グランドエスケープ_(Movie_edit)_-_Grand_Escape_(Movie_Edit)_(feat._Toko_Miura)_Radwimps.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グランドエスケープ",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_グランドエスケープ_RADWIMPS.txt"
+    }
+  ]
+}
